@@ -17,5 +17,7 @@ Realizei limpeza e preparação dos dados, codifiquei categorias e comparei Line
 
 ## 📦 Como instalar
 ```bash
+# O dataset desse projeto está em uma pasta compactada.
+
 git clone https://github.com/joaostr22/previsao-precos-carros.git
 cd previsao-precos-carros
